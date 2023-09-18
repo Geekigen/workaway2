@@ -1364,7 +1364,7 @@ class="overflow-hidden rounded-lg border border-gray-100 bg-white shadow-sm"
   </div>
 </section>
 
-
+{{-- blogs --}}
 <div>
   <section class="bg-gray-200 ">
     <div
@@ -1473,6 +1473,196 @@ class="overflow-hidden rounded-lg border border-gray-100 bg-white shadow-sm"
     </div>
   </section>
 </div>
+{{-- end of blogs --}}
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
+      <div class="flex flex-col justify-center">
+          <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Watch our videos</h1>
+          <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">In workaway we treasure art Lorem ipsum dolor, sit amet consectetur</p>
+          <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
+              <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+                 Watch more videos
+                  <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                  </svg>
+              </a>
+               
+          </div>
+      </div>
+      <div>
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/RK1RRVR9A2g?list=PL4Gr5tOAPttJ247vzkv1ZbUEm_YtKLejH" title="[4K] Beauty Of Nature | Drone Aerial View | Free stock footage | Free HD Videos - No Copyright" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+  </div>
+</section>
+
+<div>
+  <section class="bg-gray-200 ">
+    <div
+      class="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-16 lg:px-8"
+    >
+      <div class="mx-auto max-w-lg text-center">
+        <h2 class="text-3xl font-bold sm:text-4xl text-blue-600">Your membership also entitles you to </h2>
+  
+      </div>
+  
+      <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+        
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+
+<article
+  class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg"
+>
+  <img
+    alt="Office"
+    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    class="absolute inset-0 h-full w-full object-cover"
+  />
+
+  <div
+    class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64"
+  >
+    <div class="p-4 sm:p-6">
+      
+
+      <a href="#">
+        <h3 class="mt-0.5 text-lg text-white">
+         The specific privilage
+        </h3>
+      </a>
+
+    </div>
+  </div>
+</article>
+        
+      </div>
+  
+      
+    </div>
+  </section>
+</div>
 {{-- sticky --}}
 <div class="sticky-buttons flex flex-col justify-center items-center" id="sticky-buttons">
   <button class="inline-flex rounded-md px-4 py-2 text-sm text-gray-500 hover:text-gray-700 focus:relative">
@@ -1496,6 +1686,30 @@ class="overflow-hidden rounded-lg border border-gray-100 bg-white shadow-sm"
   </button>
 </div>
 
+<section
+class="overflow-hidden bg-[url(https://res.cloudinary.com/di2a8gjsq/image/upload/v1694656530/FB_IMG_1694419782767_oryrsx.jpg)] bg-cover bg-top bg-no-repeat"
+>
+<div class="bg-black/50 p-8 md:p-12 lg:px-16 lg:py-24">
+  <div class="text-center ltr:sm:text-left rtl:sm:text-right">
+    <h2 class="text-2xl font-bold text-white sm:text-3xl md:text-5xl">
+        Workaway Holy Foundation
+    </h2>
+    <h2 class="text-2xl font-bold text-white sm:text-3xl md:text-5xl">
+      We stand for the poor
+    </h2>
+  
+
+    <div class="mt-4 sm:mt-8">
+      <a
+        href="https://res.cloudinary.com/di2a8gjsq/image/upload/v1694656530/FB_IMG_1694419782767_oryrsx.jpg"
+        class="inline-block rounded-full bg-indigo-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
+      >
+      Contact us
+      </a>
+    </div>
+  </div>
+</div>
+</section>
 {{-- sticky --}}
 <script>
   // Function to auto-advance the carousel
